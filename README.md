@@ -7,8 +7,7 @@
 ## Tecnologías
 Node.js
 Express
-React con Typescript
-MongoDB
+React 
 ## Run Backend
 
 
