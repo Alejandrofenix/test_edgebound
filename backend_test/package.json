@@ -1,0 +1,16 @@
+{
+  "name": "backend_test",
+  "version": "1.0.0",
+  "description": "test edgebound",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Alejandro Pinedo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
